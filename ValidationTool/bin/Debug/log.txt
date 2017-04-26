@@ -1,0 +1,9 @@
+Validating Calculation
+Validating SUN Journal - IP1
+Error: The specified package is invalid. The main part is missing.
+Validating SUN Journal - VR1
+Validating SUN Journal - VR3
+Validating SUN Journal - VS1
+Validating SUN Journal - VS2
+Validating SUN Journal - VS3
+Validating SUN Journal - VS4

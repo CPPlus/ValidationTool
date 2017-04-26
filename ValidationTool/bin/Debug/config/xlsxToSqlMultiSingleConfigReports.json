@@ -1,0 +1,38 @@
+{
+	"MasterFilePath": "C:\\Apollo\\ValidationTool\\Tool\\OSF v1_16 Raw Output 062017 completed at 170417 0259.xlsb",
+	"ConnectionString": "Server=localhost;Database=Apollo_Q2;User Id=SQLAdmin;Password=Jinx340zoo6448;",
+	"Prefix": "Report_",
+	"SubstringMaps": [{
+		"From": " ",
+		"To": ""
+	},
+	{
+		"From": "-",
+		"To": ""
+	},
+	{
+		"From": "rates",
+		"To": "Rates"
+	},
+	{
+		"From": "(",
+		"To": ""
+	},
+	{
+		"From": ")",
+		"To": ""
+	},
+	{
+		"From": "$",
+		"To": ""
+	},
+	{
+		"From": "\u2122",
+		"To": ""
+	},
+	{
+		"From": "Report_CededAggregateLosses",
+		"To": "Report_CededAggregatedLosses"
+	}],
+	"Suffix": ""
+}

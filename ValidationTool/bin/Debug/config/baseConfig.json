@@ -1,0 +1,9 @@
+{
+	"ValidationToolConnectionString": "Server=localhost;Database=ValidationTool;User Id=SQLAdmin;Password=Jinx340zoo6448;",
+	"ComparisonSourceTypes": "MASTERXLSXTOSQL",
+	"SmartRounding": false,
+	"SmartRoundingFormatting": false,
+	"SmartRoundingDelta": 0,
+	"ValuesToNeglect": [ "blank", "(blank)" ],
+	"SubstringsToNeglect": [ "\"", ".00000", "12:00:00 AM", "12:00:00 PM" ]
+}

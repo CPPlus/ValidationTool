@@ -1,0 +1,288 @@
+[{
+	"Name": "Assumed Losses ITD",
+	"PrimaryKeyColumns": "A,B,C,D,E,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,X,Y,AD,AE", 
+	"OmittedColumnsMaster": "", 
+	"OmittedColumnsValidated": "",
+	"SecondaryKeyColumns": "",
+	"HeaderRow": 19,
+	"ManualCalculation": false
+},
+{
+	"Name": "Assumed Losses QTD",
+	"PrimaryKeyColumns": "A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,X,Y,AD,AE", 
+	"OmittedColumnsMaster": "", 
+	"OmittedColumnsValidated": "",
+	"SecondaryKeyColumns": "",
+	"HeaderRow": 19,
+	"ManualCalculation": false
+},
+{
+	"Name": "Assumed Premium ITD VR1",
+	"PrimaryKeyColumns": "A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,Z,AE,AF", 
+	"OmittedColumnsMaster": "", 
+	"OmittedColumnsValidated": "",
+	"SecondaryKeyColumns": "",
+	"HeaderRow": 18,
+	"ManualCalculation": false
+},
+{
+	"Name": "Assumed Premium QTD",
+	"PrimaryKeyColumns": "A,B,C,D,E,G,H,I,J,K,L,M,N,O,P,Q,R,S,AF", 
+	"OmittedColumnsMaster": "", 
+	"OmittedColumnsValidated": "",
+	"SecondaryKeyColumns": "",
+	"HeaderRow": 18,
+	"ManualCalculation": false
+},
+{
+	"Name": "Bdx Detail Losses",
+	"PrimaryKeyColumns": "A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,V,W,X,AA,AB,AG,AH", 
+	"OmittedColumnsMaster": "", 
+	"OmittedColumnsValidated": "",
+	"SecondaryKeyColumns": "",
+	"HeaderRow": 19,
+	"ManualCalculation": false
+},
+{
+	"Name": "Bdx Detail Premium",
+	"PrimaryKeyColumns": "A,B,C,D,E,F,G,H,J,K,L,M,N,O,P,Q,R,S,T,U,AC,AH,AI", 
+	"OmittedColumnsMaster": "", 
+	"OmittedColumnsValidated": "",
+	"SecondaryKeyColumns": "",
+	"HeaderRow": 18,
+	"ManualCalculation": false
+},
+{
+	"Name": "Bdx Loss Worksheets",
+	"PrimaryKeyColumns": "A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,R,S,T", 
+	"OmittedColumnsMaster": "", 
+	"OmittedColumnsValidated": "",
+	"SecondaryKeyColumns": "",
+	"HeaderRow": 7,
+	"ManualCalculation": false
+},
+{
+	"Name": "Bdx Override Comm Worksheets",
+	"PrimaryKeyColumns": "A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R", 
+	"OmittedColumnsMaster": "", 
+	"OmittedColumnsValidated": "",
+	"SecondaryKeyColumns": "",
+	"HeaderRow": 7,
+	"ManualCalculation": false
+},
+{
+	"Name": "Bdx Premium Worksheets",
+	"PrimaryKeyColumns": "A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R", 
+	"OmittedColumnsMaster": "", 
+	"OmittedColumnsValidated": "",
+	"SecondaryKeyColumns": "",
+	"HeaderRow": 7,
+	"ManualCalculation": false
+},
+{
+	"Name": "Bdx Summary Losses",
+	"PrimaryKeyColumns": "A,B,C,D,E,F,G,H,I,J,K", 
+	"OmittedColumnsMaster": "", 
+	"OmittedColumnsValidated": "",
+	"SecondaryKeyColumns": "",
+	"HeaderRow": 19,
+	"ManualCalculation": false
+},
+{
+	"Name": "Bdx Summary Premium",
+	"PrimaryKeyColumns": "A,B,C,D,E,F,G,H", 
+	"OmittedColumnsMaster": "", 
+	"OmittedColumnsValidated": "",
+	"SecondaryKeyColumns": "",
+	"HeaderRow": 18,
+	"ManualCalculation": false
+},
+{
+	"Name": "Bdx Total Combined",
+	"PrimaryKeyColumns": "A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,V", 
+	"OmittedColumnsMaster": "", 
+	"OmittedColumnsValidated": "",
+	"SecondaryKeyColumns": "",
+	"HeaderRow": 18,
+	"ManualCalculation": false
+},
+{
+	"Name": "Ceded Aggregated Premium",
+	"PrimaryKeyColumns": "A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,Z,AE,AF", 
+	"OmittedColumnsMaster": "", 
+	"OmittedColumnsValidated": "",
+	"SecondaryKeyColumns": "",
+	"HeaderRow": 18,
+	"ManualCalculation": false
+},
+{
+	"Name": "Ceded Calculable Premium",
+	"PrimaryKeyColumns": "A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,AE,AF", 
+	"OmittedColumnsMaster": "", 
+	"OmittedColumnsValidated": "",
+	"SecondaryKeyColumns": "",
+	"HeaderRow": 18,
+	"ManualCalculation": false
+},
+{
+	"Name": "Premium Cession rates",
+	"PrimaryKeyColumns": "A,B,C,D,E,F,G", 
+	"OmittedColumnsMaster": "", 
+	"OmittedColumnsValidated": "",
+	"SecondaryKeyColumns": "",
+	"HeaderRow": 5,
+	"ManualCalculation": false
+},
+{
+	"Name": "Premium Cession rates - Interco",
+	"PrimaryKeyColumns": "A,B,C,D,E,F,G,H,I,J,K,L", 
+	"OmittedColumnsMaster": "", 
+	"OmittedColumnsValidated": "",
+	"SecondaryKeyColumns": "",
+	"HeaderRow": 5,
+	"ManualCalculation": false
+},
+{
+	"Name": "Ceded ActualEstimate",
+	"PrimaryKeyColumns": "A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S", 
+	"OmittedColumnsMaster": "", 
+	"OmittedColumnsValidated": "",
+	"SecondaryKeyColumns": "",
+	"HeaderRow": 18,
+	"ManualCalculation": false
+},
+{
+	"Name": "$NIL Reported Losses",
+	"PrimaryKeyColumns": "A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,Y", 
+	"OmittedColumnsMaster": "", 
+	"OmittedColumnsValidated": "",
+	"SecondaryKeyColumns": "",
+	"HeaderRow": 5,
+	"ManualCalculation": false
+},
+{
+	"Name": "Ceded Aggregate Losses",
+	"PrimaryKeyColumns": "A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,X,Y,AD,AE", 
+	"OmittedColumnsMaster": "", 
+	"OmittedColumnsValidated": "",
+	"SecondaryKeyColumns": "",
+	"HeaderRow": 19,
+	"ManualCalculation": false
+},
+{
+	"Name": "Ceded Calculable Losses",
+	"PrimaryKeyColumns": "A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,T,U,V,Y,AD,AE", 
+	"OmittedColumnsMaster": "", 
+	"OmittedColumnsValidated": "",
+	"SecondaryKeyColumns": "",
+	"HeaderRow": 19,
+	"ManualCalculation": false
+},
+{
+	"Name": "Loss Cession rates",
+	"PrimaryKeyColumns": "A,B,C,D,E,F,G,H", 
+	"OmittedColumnsMaster": "", 
+	"OmittedColumnsValidated": "",
+	"SecondaryKeyColumns": "",
+	"HeaderRow": 5,
+	"ManualCalculation": false
+},
+{
+	"Name": "Funds Withheld (FW) QTD",
+	"PrimaryKeyColumns": "A,B,C,D,E,F", 
+	"OmittedColumnsMaster": "", 
+	"OmittedColumnsValidated": "",
+	"SecondaryKeyColumns": "",
+	"HeaderRow": 18,
+	"ManualCalculation": false
+},
+{
+	"Name": "Funds Withheld (FW) ITD",
+	"PrimaryKeyColumns": "A,B,C,D,E,F", 
+	"OmittedColumnsMaster": "", 
+	"OmittedColumnsValidated": "",
+	"SecondaryKeyColumns": "",
+	"HeaderRow": 18,
+	"ManualCalculation": false
+},
+{
+	"Name": "Funds Withheld (FW) Ceded QTD",
+	"PrimaryKeyColumns": "", 
+	"OmittedColumnsMaster": "", 
+	"OmittedColumnsValidated": "",
+	"SecondaryKeyColumns": "",
+	"HeaderRow": 18,
+	"ManualCalculation": false
+},
+{
+	"Name": "Funds Withheld (FW) Ceded ITD",
+	"PrimaryKeyColumns": "A,B,C,D,E,F", 
+	"OmittedColumnsMaster": "", 
+	"OmittedColumnsValidated": "",
+	"SecondaryKeyColumns": "",
+	"HeaderRow": 18,
+	"ManualCalculation": false
+},
+{
+	"Name": "Super Journal™",
+	"PrimaryKeyColumns": "A,B,C,D,E,F,G,H,I,J", 
+	"OmittedColumnsMaster": "", 
+	"OmittedColumnsValidated": "",
+	"SecondaryKeyColumns": "",
+	"HeaderRow": 15,
+	"ManualCalculation": false
+},
+{
+	"Name": "Super Journal™ QTD",
+	"PrimaryKeyColumns": "A,B,C,D,E,F,G,H,I,J", 
+	"OmittedColumnsMaster": "", 
+	"OmittedColumnsValidated": "",
+	"SecondaryKeyColumns": "",
+	"HeaderRow": 15,
+	"ManualCalculation": false
+},
+{
+	"Name": "Super Journal™ - Unearned",
+	"PrimaryKeyColumns": "A,B,C,D,E,F,G,H,I,J", 
+	"OmittedColumnsMaster": "", 
+	"OmittedColumnsValidated": "",
+	"SecondaryKeyColumns": "",
+	"HeaderRow": 14,
+	"ManualCalculation": false
+},
+{
+	"Name": "Super Journal™ Ceded Agg",
+	"PrimaryKeyColumns": "A,B,C,D,E,F,G,H,I,J", 
+	"OmittedColumnsMaster": "", 
+	"OmittedColumnsValidated": "",
+	"SecondaryKeyColumns": "",
+	"HeaderRow": 16,
+	"ManualCalculation": false
+},
+{
+	"Name": "Super Journal™ Ceded Calculable",
+	"PrimaryKeyColumns": "A,B,C,D,E,F,G,H,I,J", 
+	"OmittedColumnsMaster": "", 
+	"OmittedColumnsValidated": "",
+	"SecondaryKeyColumns": "",
+	"HeaderRow": 16,
+	"ManualCalculation": false
+},
+{
+	"Name": "Super Journal™ - UnearnCededAgg",
+	"PrimaryKeyColumns": "A,B,C,D,E,F,G,H,I,J", 
+	"OmittedColumnsMaster": "", 
+	"OmittedColumnsValidated": "",
+	"SecondaryKeyColumns": "",
+	"HeaderRow": 15,
+	"ManualCalculation": false
+},
+{
+	"Name": "Super Journal™ UnearnCededCalcu",
+	"PrimaryKeyColumns": "A,B,C,D,E,F,G,H,I,J", 
+	"OmittedColumnsMaster": "", 
+	"OmittedColumnsValidated": "",
+	"SecondaryKeyColumns": "",
+	"HeaderRow": 15,
+	"ManualCalculation": false
+}]

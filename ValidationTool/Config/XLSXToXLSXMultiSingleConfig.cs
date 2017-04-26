@@ -1,0 +1,17 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ValidationTool
+{
+    class XLSXToXLSXMultiSingleConfig
+    {
+        public string MasterFilePath { get; set; }
+        public string XLSXFilesFolder { get; set; }
+        public string Prefix { get; set; }
+        public SubstringMap[] SubstringMaps { get; set; }
+        public string Suffix { get; set; }
+    }
+}

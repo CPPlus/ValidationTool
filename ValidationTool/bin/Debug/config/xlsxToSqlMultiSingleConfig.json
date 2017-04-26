@@ -1,0 +1,20 @@
+{
+	"MasterFilePath": "C:\\Apollo\\ValidationTool\\Tool\\master.xlsx",
+	"ConnectionString": "Server=52.186.121.116;Database=CAR;User Id=SQLAdmin;Password=Jinx340zoo6448;",
+	"Schema": "car",
+	"Prefix": "",
+	"SubstringMaps": [
+	{
+		"From": " - ",
+		"To": "_"
+	},
+	{
+		"From": " ",
+		"To": ""
+	},
+	{
+		"From": "Calculation",
+		"To": "vAll"
+	}],
+	"Suffix": ""
+}

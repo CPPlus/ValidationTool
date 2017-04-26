@@ -1,0 +1,72 @@
+[{
+	"Name": "Calculation",
+	"PrimaryKeyColumns": "B,C,D,F,G,H,I,J,K,N,Q,R,S,T,U", 
+	"OmittedColumnsMaster": "", 
+	"OmittedColumnsValidated": "",
+	"SecondaryKeyColumns": "",
+	"HeaderRow": 8,
+	"ManualCalculation": false
+},
+{
+ "Name": "SUN Journal - IP1",
+ "PrimaryKeyColumns": "B,C,D,E,F,G,H,I,J,K,L,R", 
+ "OmittedColumnsMaster": "", 
+ "OmittedColumnsValidated": "",
+ "SecondaryKeyColumns": "",
+ "HeaderRow": 1,
+ "ManualCalculation": false
+},
+{
+ "Name": "SUN Journal - VR1",
+ "PrimaryKeyColumns": "B,C,D,E,F,G,H,I,J,K,L,R", 
+ "OmittedColumnsMaster": "", 
+ "OmittedColumnsValidated": "",
+ "SecondaryKeyColumns": "",
+ "HeaderRow": 1,
+ "ManualCalculation": false
+},
+{
+ "Name": "SUN Journal - VR3",
+ "PrimaryKeyColumns": "B,C,D,E,F,G,H,I,J,K,L,R", 
+ "OmittedColumnsMaster": "", 
+ "OmittedColumnsValidated": "",
+ "SecondaryKeyColumns": "",
+ "HeaderRow": 1,
+ "ManualCalculation": false
+},
+{
+ "Name": "SUN Journal - VS1",
+ "PrimaryKeyColumns": "B,C,D,E,F,G,H,I,J,K,L,R", 
+ "OmittedColumnsMaster": "", 
+ "OmittedColumnsValidated": "",
+ "SecondaryKeyColumns": "",
+ "HeaderRow": 1,
+ "ManualCalculation": false
+},
+{
+ "Name": "SUN Journal - VS2",
+ "PrimaryKeyColumns": "B,C,D,E,F,G,H,I,J,K,L,R", 
+ "OmittedColumnsMaster": "", 
+ "OmittedColumnsValidated": "",
+ "SecondaryKeyColumns": "",
+ "HeaderRow": 1,
+ "ManualCalculation": false
+},
+{
+ "Name": "SUN Journal - VS3",
+ "PrimaryKeyColumns": "B,C,D,E,F,G,H,I,J,K,L,R", 
+ "OmittedColumnsMaster": "", 
+ "OmittedColumnsValidated": "",
+ "SecondaryKeyColumns": "",
+ "HeaderRow": 1,
+ "ManualCalculation": false
+},
+{
+ "Name": "SUN Journal - VS4",
+ "PrimaryKeyColumns": "B,C,D,E,F,G,H,I,J,K,L,R", 
+ "OmittedColumnsMaster": "", 
+ "OmittedColumnsValidated": "",
+ "SecondaryKeyColumns": "",
+ "HeaderRow": 1,
+ "ManualCalculation": false
+}]
